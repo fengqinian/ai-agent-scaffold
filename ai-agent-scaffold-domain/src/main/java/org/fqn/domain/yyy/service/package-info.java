@@ -1,0 +1,1 @@
+package org.fqn.domain.yyy.service;
